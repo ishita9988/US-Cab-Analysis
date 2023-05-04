@@ -61,7 +61,7 @@ The project involves analyzing the dataset using Power BI. The primary objective
 
 * Cab users age-wise and company-wise (yellow or pink)
 
-![](User_by_age_and_company.png))
+![](User_by_age_and_company.png)
 
 ## Insights
 
