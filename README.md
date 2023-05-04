@@ -41,27 +41,27 @@ The project involves analyzing the dataset using Power BI. The primary objective
 
 * Price charged by both yellow and pink cab for each of the city. 
 
-![](Price_charged_by_citydistance_by_city_and_company.png)
+![](Price_charged.png)
 
 * Demand of cab industry by year
 
-![](Demand_of_cab_by_user.png)
+![](Demand_of_company_by_year.png)
 
 * Cab users city-wise
 
-![](user_by_city_wise.png)
+![](User_by_city.png)
 
 * Cab users age-wise
 
-![](user_by_age_wise.png))
+![](User_by_age_wise.png))
 
 * Cab users payment-wise
 
-![](user_by_payment_wise.png))
+![](User_by_payment_mode.png))
 
 * Cab users age-wise and company-wise (yellow or pink)
 
-![](user_by_age_and_company.png))
+![](User_by_age_and_company.png))
 
 ## Insights
 
