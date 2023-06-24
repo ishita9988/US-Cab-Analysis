@@ -1,5 +1,8 @@
 # US-Cab-Analysis
 
+![dataset-cover](https://github.com/ishita9988/US-Cab-Analysis/assets/129153274/60ccf6ea-f418-4dbc-8f0e-63d2314e3bbc)
+
+
 ## Introduction
 
 The project involves analyzing the dataset using Power BI. The primary objective of the project is to create visualizations to deliver insights on the pink and yellow cab of US.
@@ -16,7 +19,8 @@ The project involves analyzing the dataset using Power BI. The primary objective
 
 ## Modelling
 
-![](modelling.png)
+
+<img width="725" alt="modelling" src="https://github.com/ishita9988/US-Cab-Analysis/assets/129153274/bcbd48fb-9af5-4342-939d-28b60c20b819">
 
 ## Problem Statement
 
