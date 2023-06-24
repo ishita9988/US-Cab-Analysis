@@ -68,7 +68,7 @@ The project involves analyzing the dataset using Power BI. The primary objective
 
 ### Cab users age-wise and company-wise (yellow or pink)
 
-<img width="314" alt="User_by_age_wise" src="https://github.com/ishita9988/US-Cab-Analysis/assets/129153274/7a9f033d-e998-45b0-9674-08a571a9164c">
+<img width="434" alt="User_by_age_and_company" src="https://github.com/ishita9988/US-Cab-Analysis/assets/129153274/c7b41cef-a682-4e9a-9364-137e012b99ab">
 
 
 ## Insights
