@@ -31,37 +31,45 @@ The project involves analyzing the dataset using Power BI. The primary objective
 
 ## Visualizations
 
-* Percentage of distance covered by each company in the same city.
 
-![](distance_by_city_and_company.png)
+### Percentage of distance covered by each company in the same city.
 
-* Profit shared by the cab in the year from 2016 to 2018.
+<img width="697" alt="distance_by_city_and_company" src="https://github.com/ishita9988/US-Cab-Analysis/assets/129153274/f005dd0b-af7c-4ce2-b385-b725637744d7">
 
-![](Profit.png)
 
-* Price charged by both yellow and pink cab for each of the city. 
+### Profit shared by the cab in the year from 2016 to 2018.
 
-![](Price_charged.png)
+<img width="686" alt="Profit" src="https://github.com/ishita9988/US-Cab-Analysis/assets/129153274/d1309b87-b4f7-43a0-8cd1-0887d949fe79">
 
-* Demand of cab industry by year
 
-![](Demand_of_company_by_year.png)
+### Price charged by both yellow and pink cab for each of the city. 
 
-* Cab users city-wise
 
-![](User_by_city.png)
+<img width="685" alt="Price_charged" src="https://github.com/ishita9988/US-Cab-Analysis/assets/129153274/fc552ecb-08ed-4afc-a17a-78b79377644a">
 
-* Cab users age-wise
+### Demand of company by year
+<img width="415" alt="Demand_of_company_by_year" src="https://github.com/ishita9988/US-Cab-Analysis/assets/129153274/24902610-0f97-42e0-a495-3a6d4e32b555">
 
-![](User_by_age_wise.png)
 
-* Cab users payment-wise
 
-![](User_by_payment_mode.png)
+### Cab users city-wise
+<img width="631" alt="User_by_city" src="https://github.com/ishita9988/US-Cab-Analysis/assets/129153274/2c47c22f-c559-4aaf-9f10-d83e5eb61bdc">
 
-* Cab users age-wise and company-wise (yellow or pink)
 
-![](User_by_age_and_company.png)
+
+### Cab users age-wise
+
+
+<img width="314" alt="User_by_age_wise" src="https://github.com/ishita9988/US-Cab-Analysis/assets/129153274/6137e207-e6a6-4bda-9091-9b13e03ea13f">
+
+### Cab users payment-wise
+
+<img width="298" alt="User_by_payment_mode" src="https://github.com/ishita9988/US-Cab-Analysis/assets/129153274/152ef213-7bed-4b8f-9a9e-a8503b1a022e">
+
+### Cab users age-wise and company-wise (yellow or pink)
+
+<img width="314" alt="User_by_age_wise" src="https://github.com/ishita9988/US-Cab-Analysis/assets/129153274/7a9f033d-e998-45b0-9674-08a571a9164c">
+
 
 ## Insights
 
